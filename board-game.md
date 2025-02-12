@@ -1,7 +1,5 @@
 # NCSA Boardgame Challenge with lnwza007 Group 🥷💥  
 
-[ Back to Homepage ](https://witchapolinaksorn.github.io)  
-
 **🤖 Securing Human Topic in Information System Security 🎲**
 
 
@@ -27,18 +25,18 @@
 **Activity Pictures 🖼️**  
 
 
-![Group_Boardgame1](img/Group_Boardgame1.jpg)
+![Group_Boardgame1](images/Group_Boardgame1.jpg)
 
-![Group_Boardgame2](img/Group_Boardgame2.jpg)
+![Group_Boardgame2](images/Group_Boardgame2.jpg)
 
-![GamePlay_Boardgame1](img/GamePlay_Boardgame1.jpg)
+![GamePlay_Boardgame1](images/GamePlay_Boardgame1.jpg)
 
-![GamePlay_Boardgame2](img/GamePlay_Boardgame2.jpg)
+![GamePlay_Boardgame2](images/GamePlay_Boardgame2.jpg)
 
 **Activity Video 🎥**  
 
 
-[![GamePlay_video](img/NCSA_Boardgame.jpg)](https://drive.google.com/file/d/16rswN4bMRxtHUwdDxDeQdjsgE-Ay3gXS/view?usp=sharing)
+[![GamePlay_video](images/NCSA_Boardgame.jpg)](https://drive.google.com/file/d/16rswN4bMRxtHUwdDxDeQdjsgE-Ay3gXS/view?usp=sharing)
 
 
 **Group 🤼** 
