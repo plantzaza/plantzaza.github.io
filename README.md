@@ -13,3 +13,4 @@
 [LOOP COVERAGE CISSP GLOSSARY](loop-coverage.md)  
 [E-CARD](e-card.md)  
 [Reliability](reliability.md)  
+[Board Game](board-game.md)
